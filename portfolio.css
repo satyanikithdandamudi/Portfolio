@@ -12,16 +12,18 @@
 .banner-section-bg-container {
     background-color: #1f2933;
     background-size: cover;
+    height: 90vh;
 }
 
 .banner-section-img {
-    height: 250px;
-    width: 250;
+    height: 300px;
+    width: 300;
 
 }
 
 .banner-Heading {
     color: white;
+    font-size: 50px;
     font-family: "Roboto";
 
 }
@@ -29,7 +31,7 @@
 .banner-para {
     color: #9aa5b1;
     font-family: "Roboto";
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .banner-btn {
