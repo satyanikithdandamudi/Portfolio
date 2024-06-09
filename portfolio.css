@@ -12,12 +12,12 @@
 .banner-section-bg-container {
     background-color: #1f2933;
     background-size: cover;
-    height: 100vh;
+    height: 105vh;
 }
 
 .banner-section-img {
-    height: 300px;
-    width: 300;
+    height: 250px;
+    width: 250;
 
 }
 
