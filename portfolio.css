@@ -139,6 +139,8 @@
 .projects-imgs {
     height: 100%;
     width: 100%;
+    border-top-left-radius:4% ;
+    border-top-right-radius: 4%;
 }
 
 .projects-sub-head1 {
